@@ -1,0 +1,12 @@
+.receipt {
+  display: none;
+  text-align: center
+  margin: 25px;
+  padding: 25px;
+  border-style: solid;
+  border-color: red;
+  /*border-radius: 2px;*/
+  background-color: grey;
+  border-width: 5px;
+  width: 50%;
+}
